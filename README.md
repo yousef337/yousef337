@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming and Mathematics
 - 🌱 I’m currently learning CS at KCL
 - 💞️ I’m looking to collaborate on everything that caught my interest
-- 📫 How to reach me, twitter @YousefATT
+//- 📫 How to reach me,
 
 <!---
 yousef337/yousef337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
